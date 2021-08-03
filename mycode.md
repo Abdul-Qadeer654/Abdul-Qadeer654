@@ -1,3 +1,3 @@
 hello there 
 
-are u ready to code
+are u ready to code!
